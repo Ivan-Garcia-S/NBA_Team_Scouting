@@ -8,3 +8,13 @@ This project is designed to help scout NBA teams and players, analyze their stat
 - **Database Integration**: PostgreSQL is used to store player and team statistics.
 - **Data Visualization**: Generate meaningful shot charts and shooting statistics from the data to assist with scouting reports.
 - **Player and Team Analysis**: Use the information in the shot charts to create gameplans for opposing NBA teams. 
+
+
+## Examples
+- **Player Reports:**
+![Screenshot](assets/Player_Report_Example.png)
+- **Team Report:**
+![Screenshot](assets/Team_Report.png)
+
+
+
