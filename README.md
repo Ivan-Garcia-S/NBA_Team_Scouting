@@ -17,4 +17,9 @@ This project is designed to help scout NBA teams and players, analyze their stat
 ![Screenshot](assets/Team_Report.png)
 
 
-
+- **1.** 
+![Animation](assets/Movie1.gif)
+- **2.** 
+![Animation](assets/Movie2.gif)
+- **3.** 
+![Animation](assets/Movie3.gif)
