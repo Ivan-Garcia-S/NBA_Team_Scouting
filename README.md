@@ -12,14 +12,14 @@ This project is designed to help scout NBA teams and players, analyze their stat
 
 ## Examples
 - **Player Reports:**
-![Screenshot](assets/Player_Report_Example.png)
+![Screenshot](assets/Player_Charts.png)
 - **Team Report:**
-![Screenshot](assets/Team_Report.png)
+![Screenshot](assets/Team_Charts.png)
 
 
-- **1.** 
-![Animation](assets/Movie1.gif)
+- **1. Selecting a Team**: In the Opponent Team dropdown, select  
+![Animation](assets/Change_Number_Games.gif)
 - **2.** 
-![Animation](assets/Movie2.gif)
+![Animation](assets/Change_Team.gif)
 - **3.** 
-![Animation](assets/Movie3.gif)
+![Animation](assets/Player_To_Team.gif)
